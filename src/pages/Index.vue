@@ -44,7 +44,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Aircrft blog'
+    title: 'Aircrft vlog'
   }
 }
 </script>
