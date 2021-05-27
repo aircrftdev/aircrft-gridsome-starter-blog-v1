@@ -17,7 +17,7 @@
 
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Empowered by <a href="//aircrft.com"> Aircrft | - a Positive Impact Technology Platform ❤️ - </a></span>
+      <span class="footer__links">Empowered by <a href="//aircrft.com"> Aircrft | Startup Marketplace | Thoughtfully curated tool & solutions for startups. What's your moonshot? | Aircrft is a Certified Positive Impact Technology Platform ❤️  </a></span>
     </footer>
 
   </div>
