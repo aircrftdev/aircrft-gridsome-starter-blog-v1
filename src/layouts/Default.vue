@@ -17,7 +17,21 @@
 
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Empowered by <a href="//aircrft.com"> Aircrft | Startup Marketplace |  Positive Impact Technology Platform ❤️  </a></span>
+      <span class="footer__links">Empowered by Aircrft | Startup Marketplace 🍀 <a href="//aircrft.com"> </a></span>
+      <span class="footer__links">Positive Impact Technology Platform <a href="//aircrft.com"> </a></span>
+      <span class="footer__links">Aircrft is a act ❤️ <a href="//aircrft.com"> </a></span>
+      <span class="footer__links">Blog <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">TV <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">Community <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">Content <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">Code <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">Captains & Crew <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">Contribute <a href="//blog.aircrft.com"></a>Join as Curator / Code Captain</span>
+      <span class="footer__links">Support <a href="//blog.aircrft.com"></a>Join our weekly Live Global Support Video Call</span>
+      <span class="footer__links">Aircrft Impact Filters <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">Abundance Algorithm <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">Podcast <a href="//blog.aircrft.com"></a></span>
+      <span class="footer__links">Moonshot Mindset <a href="//blog.aircrft.com"></a></span>
     </footer>
 
   </div>
