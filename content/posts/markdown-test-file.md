@@ -294,6 +294,13 @@ This is [an example](http://example.com/) inline link.
 
 [This link](http://example.net/) has no title attribute.
 
+[Loom Link](https://www.loom.com/share/aacaac492cfe496eb6f6e55d74b2a4ed)
+
+
+https://www.loom.com/share/aacaac492cfe496eb6f6e55d74b2a4ed
+
+*<div style=“position: relative; padding-bottom: 186.38888888888889%; height: 0;”><iframe src=“https://www.loom.com/embed/aacaac492cfe496eb6f6e55d74b2a4ed” frameborder=“0” webkitallowfullscreen mozallowfullscreen allowfullscreen style=“position: absolute; top: 0; left: 0; width: 100%; height: 100%;”></iframe></div>*
+
 ### Emphasis
 
 Markdown treats asterisks (`*`) and underscores (`_`) as indicators of
@@ -316,3 +323,41 @@ Unlike a pre-formatted code block, a code span indicates code within a
 normal paragraph. For example:
 
 Use the `printf()` function.
+
+#Blog-in-a-Box Gumroad Code injection testing 
+
+
+
+This is [Blog-in-a-Box | Buy Now](href=“https://gumroad.com/l/zwIVA) inline link.
+
+
+###In-line purchase without leaving your site
+
+<script src=“https://gumroad.com/js/gumroad.js”></script>
+<a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank”>Add to stack | Buy Now </a>
+
+
+
+<script src=“https://gumroad.com/js/gumroad.js”></script>
+<a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank”>Blog-in-a-Box | Buy Now </a>
+
+
+###Auto-trigger the payment form
+
+<script src=“https://gumroad.com/js/gumroad.js”></script>
+<a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA?wanted=true” target=“_blank”>Blog-in-a-Box | Buy Now </a>
+
+
+
+####Allow single-product purchases only
+
+
+<script src=“https://gumroad.com/js/gumroad.js”></script>
+<a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank” data-gumroad-single-product=“true”>Blog-in-a-Box | Buy Now </a>
+
+
+
+<script type=“text/javascript” src=“https://gumroad.com/js/gumroad.js”></script>
+
+
+
