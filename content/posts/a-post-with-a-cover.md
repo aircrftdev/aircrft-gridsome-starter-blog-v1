@@ -1,7 +1,7 @@
 ---
 title: Blog-in-a-Box-Post-With-Cover-test
 date: 2019-01-07
-published: true
+published: false
 tags: ['Markdown', 'Cover Image']
 series: false
 cover_image: ./images/aircrft-blog-in-a-box-white.png

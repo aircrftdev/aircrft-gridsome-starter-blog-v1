@@ -1,12 +1,12 @@
 ---
 title: What’s your moonshot?
-date: 2021-05-27
+date: 
 published: true
-tags: [Moonshot Mindset, Startups, High Impact]
+tags: [Moonshots, Tools, Solutions]
 series: false
 cover_image: ./images/aircrft-fuel-cover-1030x550.png
 canonical_url: false
-description: “What’s your moonshot?”
+description: Startup Marketplace 
 ---
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.Readability, however, is emphasized above all else. A Markdown-formatted
