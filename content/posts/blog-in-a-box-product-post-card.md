@@ -19,6 +19,16 @@ inspiration for Markdown's syntax is the format of plain text email.
 
 #Blog-in-a-Box Gumroad Code injection testing 
 
+<script src=“https://gumroad.com/js/gumroad.js”></script>
+<a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank”>Buy my product</a>
+
+
+#Gumroad Embed Script
+
+
+
+<script src=“https://gumroad.com/js/gumroad-embed.js”></script>
+<div class=“gumroad-product-embed”><a href=“https://gumroad.com/l/zwIVA”>Loading...</a></div>
 
 
 This is [Blog-in-a-Box | Buy Now](href=“https://gumroad.com/l/zwIVA) inline link.
