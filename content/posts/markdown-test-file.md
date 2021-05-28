@@ -4,7 +4,7 @@ date: 2021-05-27
 published: true
 tags: [Moonshot Mindset, Startups, High Impact]
 series: false
-cover_image: ./images/whats-your-moonshot-380hx770w.png
+cover_image: ./images/aircrft-fuel-cover-1030x550.png
 canonical_url: false
 description: “What’s your moonshot?”
 ---
