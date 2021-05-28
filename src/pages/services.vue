@@ -1,5 +1,5 @@
 <template>
-  <Layout :show-logo="true">
+  <Layout :show-logo="false">
     <!-- Author intro -->
     <Author :show-title="true" />
 
@@ -42,7 +42,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Aircrft'
+    title: 'Aircrft | Startup Martketplace'
   }
 }
 </script>
