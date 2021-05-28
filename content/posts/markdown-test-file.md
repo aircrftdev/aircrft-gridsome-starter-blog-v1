@@ -1,10 +1,12 @@
 ---
-title: Markdown test file
-date: 2019-02-06
+title: What’s your moonshot?
+date: 2021-05-27
 published: true
-tags: ['Markdown','Test files']
+tags: [‘Moonshot Mindset’, ‘Startup Marketplace’, ‘Positive Impact Technology Platform’]
+series: false
+cover_image: ./images/whats-your-moonshot-380hx770w.png
 canonical_url: false
-description: "Startup marketplace"
+description: “What’s your moonshot?”
 ---
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.Readability, however, is emphasized above all else. A Markdown-formatted

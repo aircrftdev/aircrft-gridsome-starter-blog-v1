@@ -1,10 +1,10 @@
 ---
-title: Blog-in-a-Box
+title: Blog-in-a-Box-Post-With-Cover
 date: 2019-01-07
 published: true
 tags: ['Markdown', 'Cover Image']
 series: false
-cover_image: ./images/aircrft-blog-in-a-box-cover-0.png
+cover_image: ./images/aircrft-blog-in-a-box-white.png
 canonical_url: false
 description: "A complete blogging system for startups"
 ---

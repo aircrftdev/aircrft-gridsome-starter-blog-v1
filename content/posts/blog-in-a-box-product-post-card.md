@@ -1,5 +1,5 @@
 ---
-title: Blog-in-a-Box
+title: Blog-in-a-Box-Post-Card
 date: 2019-01-07
 published: true
 tags: ['Markdown', 'Cover Image']
