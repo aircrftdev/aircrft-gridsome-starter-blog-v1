@@ -8,17 +8,14 @@
 		</h1>
 
 		<p class="author__intro">
-			Startup Marketplace | Thoughtfully curated tool & solutions for startups. Whats your moonshot?
+			Thoughtfully curated tools & solutions for startups.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Startup Marketplace</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">Aircrft TV</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">blog</a>
+			<a href="//twitter.com/gridsome"></a>
+			<a href="//github.com/gridsome/gridsome-starter-blog"></a>
+			<a href="//github.com/gridsome/gridsome-starter-blog"></a>
 		</p>
-		<a href="//github.com/gridsome/gridsome-starter-blog">Community</a>
-		<a href="//github.com/gridsome/gridsome-starter-blog">Code</a>
-		<a href="//github.com/gridsome/gridsome-starter-blog">Content</a>
 		
 	</div>
 </template>

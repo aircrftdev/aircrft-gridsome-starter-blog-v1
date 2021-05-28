@@ -2,11 +2,11 @@
 title: Blog-in-a-Box
 date: 2019-01-07
 published: true
-tags: ['Markdown', 'Cover Image']
+tags: ['Moonshot Mindset', 'Startup Marketplace', ‘Positive Impact Technology Platform’]
 series: false
-cover_image: ./images/aircrft-blog-in-a-box-cover-0.png
+cover_image: ./images/whats-your-moonshot-380hx770w.png
 canonical_url: false
-description: "A complete blogging system for startups"
+description: "What’s your moonshot?"
 ---
 
 Readability, however, is emphasized above all else. A Markdown-formatted
