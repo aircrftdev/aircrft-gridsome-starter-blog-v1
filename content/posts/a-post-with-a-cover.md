@@ -1,5 +1,5 @@
 ---
-title: Blog-in-a-Box-Post-With-Cover
+title: Blog-in-a-Box-Post-With-Cover-test
 date: 2019-01-07
 published: true
 tags: ['Markdown', 'Cover Image']
