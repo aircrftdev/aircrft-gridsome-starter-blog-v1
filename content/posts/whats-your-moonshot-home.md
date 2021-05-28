@@ -1,12 +1,12 @@
 ---
-title: What’s your moonshot?
+title: Startup Marketplace
 date: 
 published: true
 tags: [Moonshots, Tools, Solutions]
 series: false
 cover_image: ./images/aircrft-fuel-cover-1030x550.png
 canonical_url: false
-description: Startup Marketplace 
+description: Thoughtfully curated tools & solutions for startups.
 ---
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.Readability, however, is emphasized above all else. A Markdown-formatted
