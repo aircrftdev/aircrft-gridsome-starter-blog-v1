@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			Thoughtfully curated tools & solutions for startups.
+			Thoughtfully curated tools & solutions for startups
 		</p>
 
 		<p class="author__links">

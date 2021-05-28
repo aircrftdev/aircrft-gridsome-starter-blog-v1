@@ -2,7 +2,7 @@
 title: What’s your moonshot?
 date: 2021-05-27
 published: true
-tags: [‘Moonshot Mindset’, ‘Startup Marketplace’, ‘Positive Impact Technology Platform’]
+tags: [Moonshot Mindset, Startups, High Impact]
 series: false
 cover_image: ./images/whats-your-moonshot-380hx770w.png
 canonical_url: false
