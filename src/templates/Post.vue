@@ -15,6 +15,9 @@
       </div>
 
       <div class="post__content" v-html="$page.post.content" />
+      
+      <script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/zwIVA" target="_blank">Buy Blog-in-a-Box</a>
 
       <div class="post__footer">
         <PostTags :post="$page.post" />
