@@ -42,7 +42,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Aircrft'
+    title: 'Aircrft | Startup Martketplace'
   }
 }
 </script>

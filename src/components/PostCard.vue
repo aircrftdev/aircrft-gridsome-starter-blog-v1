@@ -6,8 +6,10 @@
     <div class="post-card__content">
       <h2 class="post-card__title" v-html="post.title" />
       <p class="post-card__description" v-html="post.description" />
+      
+      <script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/zwIVA" target="_blank">Buy Blog-in-a-Box</a>
 
-      <PostMeta class="post-card__meta" :post="post" />
       <PostTags class="post-card__tags" :post="post" />
 
       <g-link class="post-card__link" :to="post.path">Link</g-link>
@@ -16,7 +18,6 @@
 </template>
 
 <script>
-import PostMeta from '~/components/PostMeta'
 import PostTags from '~/components/PostTags'
 
 export default {

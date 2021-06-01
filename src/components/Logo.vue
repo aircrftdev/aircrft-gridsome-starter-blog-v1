@@ -1,5 +1,6 @@
 <template>
 	<g-link class="logo" to="/">
+	  <g-image alt="Author image" class="author__image" src="~/assets/images/aircrft-logo.png" width="180" height="180" blur="5" />
 	  <span class="logo__text">
 	    &larr; {{ $static.metadata.siteName }}
 	  </span>

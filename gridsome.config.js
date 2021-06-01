@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Aircrft / blog',
-  siteDescription: 'Whats your moonshot?',
+  siteName: 'Aircrft',
+  siteDescription: 'Thoughtfully curated tools & solutions for startups',
 
   templates: {
     Post: '/:title',

@@ -12,10 +12,11 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/gridsome"></a>
+			<a href="//github.com/gridsome/gridsome-starter-blog"></a>
+			<a href="//github.com/gridsome/gridsome-starter-blog"></a>
 		</p>
-
+		
 	</div>
 </template>
 
