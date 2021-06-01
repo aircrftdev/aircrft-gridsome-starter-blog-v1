@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			What's your moonshot?
+			What's your moonshot? Startup marketplace
 		</p>
 
 		<p class="author__links">

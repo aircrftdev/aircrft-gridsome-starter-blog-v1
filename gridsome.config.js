@@ -26,10 +26,11 @@ module.exports = {
             typeName: 'Tag',
             create: true
           }
-        }
+        },
       }
     }
   ],
+
 
   transformers: {
     //Add markdown support to all file-system sources
